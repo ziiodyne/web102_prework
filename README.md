@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='web102-pre-recording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='web102-pre-work-recording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LiceCap
 
